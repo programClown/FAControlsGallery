@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FAControlsGallery", "FAControlsGallery\FAControlsGallery.csproj", "{301C8B85-8134-4F0B-8227-93E45729C99D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FAControlsGallery.Desktop", "FAControlsGallery.Desktop\FAControlsGallery.Desktop.csproj", "{31667A23-2FF6-48CB-8794-ABA90BF9C7C5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{301C8B85-8134-4F0B-8227-93E45729C99D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{301C8B85-8134-4F0B-8227-93E45729C99D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{301C8B85-8134-4F0B-8227-93E45729C99D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{301C8B85-8134-4F0B-8227-93E45729C99D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31667A23-2FF6-48CB-8794-ABA90BF9C7C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31667A23-2FF6-48CB-8794-ABA90BF9C7C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31667A23-2FF6-48CB-8794-ABA90BF9C7C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31667A23-2FF6-48CB-8794-ABA90BF9C7C5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2AFA3091-2B01-4321-9703-A8821153D913}
+	EndGlobalSection
+EndGlobal
